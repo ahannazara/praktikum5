@@ -52,7 +52,7 @@
        
             
           
-            <h1 class="cover-heading" ><b>HOSHIMACHI SUISEI</b></h1>
+            <h1 class="cover-heading" ><b>IoT table HOSHIMACHI SUISEI</b></h1>
             
             <p>Hoshimachi Suisei (星街すいせい) is a female Japanese Virtual YouTuber <br>
                 associated with hololive. While originally an independent VTuber who eventually was recruited into hololive,  <br>
