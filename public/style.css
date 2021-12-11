@@ -1,0 +1,56 @@
+body {
+  background-image: url('https://wallpaperaccess.com/full/250472.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://wallpaperaccess.com/full/250472.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+header {
+  background-color: #544179;
+}
+a {
+  color: white !important;
+  font-family: 'Cabin', sans-serif;
+}
+button {
+  color: rgb(44, 44, 44);
+}
+h1 {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  color: white;
+  font-family: 'Cabin', sans-serif;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+h2 {
+  color: white;
+  font-family: 'Cabin', sans-serif;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+.judul{
+  font-family: 'Cabin', sans-serif;
+  color: white;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+p{
+  color: white;
+  font-family: 'Cabin', sans-serif;
+  text-align: center;
+ 
+}
+.futer{
+  background-color: #32C1CD;
+  
+}
+
+.table-dark{
+  background-color: #32C1CD;
+}
+.bk{
+  background-color: #544179;
+}
+.wk{
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
