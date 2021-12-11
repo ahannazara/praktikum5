@@ -25,7 +25,7 @@
     <div>
         <header>
             <nav class="navbar navbar-expand-lg navbar-light bg-hotpink">
-                <h2 class="navbar-brand judul" href="/home" style="color: white;"><b>A H A N</b></h2>
+                <h2 class="navbar-brand judul" href="/home" style="color: white;"><b>IoT A H A N</b></h2>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -52,7 +52,7 @@
        
             
           
-            <h1 class="cover-heading" ><b>IoT table HOSHIMACHI SUISEI</b></h1>
+            <h1 class="cover-heading" ><b>IOT GEDUNG HOSHIMACHI SUISEI</b></h1>
             
             <p>Hoshimachi Suisei (星街すいせい) is a female Japanese Virtual YouTuber <br>
                 associated with hololive. While originally an independent VTuber who eventually was recruited into hololive,  <br>
@@ -65,7 +65,9 @@
                     allowfullscreen
                 ></iframe>
                 </div>
-
+                <p class="lead">
+                <a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A" class="btn btn-lg btn-secondary" style="background-color:#32C1CD;">IoT <br> Subscribe To Hoshimachi Suisei</a>
+                  </p>
 
 
                 <h1 class="cover-heading">Profile</h1>
